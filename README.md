@@ -1,15 +1,10 @@
-#Book Spine Cataloguer
-Use opencv and tessaract to turn photos of a bookshelf into a catalogue of books.
+# Book Spine Cataloguer
+Use OpenCV and Tessaract to turn photos of a bookshelf into a catalogue of books.
 
-Currently in Progress
-
-Technologies used:
-Node.js, Google App Engine, c++, OpenCV, Tessaract
-
-##Getting Started
+## Getting Started
  - [Get OpenCV >= 3.2](http://docs.opencv.org/trunk/d7/d9f/tutorial_linux_install.html)
 
-##Building
+## Building
 ```
 mkdir build
 cd build
@@ -23,7 +18,7 @@ make
 #### Application
  - [ ] Set up OpenCV
  - [ ] Brighten an image using OpenCV
- - [ ] Locate the rectangles of a book spine for simple cases
+ - [ ] Locate the rectangles of a book spine for simple cases (1 book spine)
  - [ ] Set up Tessaract
  - [ ] Using Tessaract, OCR a very simple spine
  - [ ] OCR for many spines
