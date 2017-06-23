@@ -16,7 +16,7 @@ make
 ## Roadmap
 
 #### Application
- - [ ] Set up OpenCV
+ - [x] Set up OpenCV
  - [ ] Brighten an image using OpenCV
  - [ ] Locate the rectangles of a book spine for simple cases (1 book spine)
  - [ ] Set up Tessaract
